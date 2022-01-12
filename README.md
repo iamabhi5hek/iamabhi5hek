@@ -26,7 +26,7 @@ I'm Jhey.
   
   <div align="center">
 
-[<img src="https://img.shields.io/badge/-linkedin-blue"/>](https://www.linkedin.com/in/iamabhi5hek/) 
+[<img src="https://img.shields.io/badge/-iamabhi5hek-blue"/>](https://www.linkedin.com/in/iamabhi5hek/) 
 <!--[<img src="https://img.shields.io/badge/ngudbhav%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://www.linkedin.com/in/iamabhi5hek/)
 <!-- [<img src="https://img.shields.io/badge/ngudbhav%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/ngudbhav/)
 [<img src="https://img.shields.io/badge/ngudbhav%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/>](https://snapchat.com/add/ngudbhav/) -->
