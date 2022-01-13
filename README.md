@@ -1,11 +1,9 @@
 
-  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/31225066/149371845-a3cd2f22-37dc-40e6-8cbe-4e66993cc053.gif)]
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/31225066/149371845-a3cd2f22-37dc-40e6-8cbe-4e66993cc053.gif)
 
 
 
-<br />
-
-<img alt="freeCodeCamp points" src="https://img.shields.io/freecodecamp/points/iamabhi5hek?label=FreeCodeCamp">
+<!-- <img alt="freeCodeCamp points" src="https://img.shields.io/freecodecamp/points/iamabhi5hek?label=FreeCodeCamp"> -->
 
 
 ##Lets connect : 
