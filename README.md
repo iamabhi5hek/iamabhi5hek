@@ -1,4 +1,5 @@
-### Hi there 👋
+<div>
+  ### Hi there 👋
 ![200w (1)](https://user-images.githubusercontent.com/31225066/149365699-232b5be7-e99a-4900-af71-e783df41b6d7.gif)
 <div align="center">
   
@@ -8,5 +9,8 @@
  
 </div> 
 <img alt="freeCodeCamp points" src="https://img.shields.io/freecodecamp/points/iamabhi5hek?label=FreeCodeCamp">
+  
+<div> 
+
   
 
