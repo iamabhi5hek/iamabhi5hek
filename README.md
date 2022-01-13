@@ -1,7 +1,7 @@
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/31225066/149372263-1f79b1e3-0a94-46c4-8ebf-0eac1937b644.gif)
 
-<br/>
-![maxresdefault](https://user-images.githubusercontent.com/31225066/149373110-5a993747-2dbc-4c3f-9444-2d1306847514.jpg)]
+
+![maxresdefault](https://user-images.githubusercontent.com/31225066/149373110-5a993747-2dbc-4c3f-9444-2d1306847514.jpg)
 
 
 
