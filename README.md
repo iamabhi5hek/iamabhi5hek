@@ -1,6 +1,5 @@
+![giphy](https://user-images.githubusercontent.com/31225066/149366543-8f12f9fe-cf42-492d-a11e-767ee5c796ad.gif)
 
-  ### Hi there 👋
-  ![200w (1)](https://user-images.githubusercontent.com/31225066/149366176-b5494fc2-f76a-41f9-947d-558a21ebb07a.gif)
 
 
 <br />
