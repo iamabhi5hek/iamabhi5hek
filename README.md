@@ -3,6 +3,7 @@
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/31225066/149377700-b71bfe3a-051b-49db-9c83-5bff82ce5ea2.gif)
 
 
+![funny](https://user-images.githubusercontent.com/31225066/149378294-f573c34d-ac2c-451d-ad40-d8529ae26f3e.gif)
 
 
 <!-- <img alt="freeCodeCamp points" src="https://img.shields.io/freecodecamp/points/iamabhi5hek?label=FreeCodeCamp"> -->
