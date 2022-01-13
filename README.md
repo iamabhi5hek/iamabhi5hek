@@ -1,7 +1,7 @@
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/31225066/149372263-1f79b1e3-0a94-46c4-8ebf-0eac1937b644.gif)
 
 <div align ="center" color="grey">
-  <h2>This is</h2> <h1>Abhishek Choudhary</h1>
+  <h3>This is</h3><h2>Abhishek Choudhary</h2>
 </div>
 
 
