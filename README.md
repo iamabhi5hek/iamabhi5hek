@@ -55,23 +55,6 @@ public class Introduction {
 
 
 
-# Languages & Tools 👨‍💻 🛠:
-</br>
-
-<img hight="110" width="350" align="right" alt="GIF" src="https://github.com/iamabhi5hek/iamabhi5hek/blob/main/laptop.gif">
-
-
-<img src="https://github.com/iamabhi5hek/iamabhi5hek/blob/main/java.svg" alt="java" width="80" hight="50">
-<img src="https://github.com/iamabhi5hek/iamabhi5hek/blob/main/angular.svg" alt="angular" width="100" hight="50">
-<img src="https://github.com/iamabhi5hek/iamabhi5hek/blob/main/visualstudio.svg" alt="vs" width="100" hight="50">
-<img src="https://github.com/iamabhi5hek/iamabhi5hek/blob/main/eclipse.svg" alt="eclipse" width="80" hight="50">
-
-</br>
-</br>
-</br>
-
-
-
 # ⚡ Contact Me :
 <p>We Vibe, join the Tribe
 <p>
