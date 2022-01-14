@@ -6,23 +6,36 @@
 </br>
 
 # About ME 💬 :
+<?java
+package com.github.readme.aboutme;
 
+import name;
+import profession;
+import technologies;
+import hobbies;
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/iamabhi5hek/iamabhi5hek/blob/main/deathNote.gif">
-### - Software Developer 
-### - Hands on Experience :
-- ✨ JAVA
-- ✨ AngularJs
-- ✨ Kafka
-- ✨ MongoDB
-- ✨ Protocol Buffer
+public class Introduction(){
+}
 
-### - Passion : 
-- ✨ Travel
-- ✨ Football
-- ✨ Anime
-- ✨ Cricket
-
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Building Robots to ease opertations",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
 </br>
 </br>
 </br>
