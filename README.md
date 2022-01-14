@@ -34,8 +34,8 @@
 
 <img hight="160" width="350" align="right" alt="GIF" src="https://github.com/iamabhi5hek/iamabhi5hek/blob/main/laptop.gif">
 
-<i class="fas fa-code"></i>
 
+<img src="https://github.com/iamabhi5hek/iamabhi5hek/blob/main/java.svg" alt="python" width="120" hight="50">
 </br>
 </br>
 </br>
