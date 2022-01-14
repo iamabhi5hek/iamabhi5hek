@@ -8,13 +8,27 @@
 # About ME 💬 :
 
 ```java
+package com.github.profile.readme;
+
+import name;
+import experience;
+import hobbies;
+import frameworks;
+
 public class Introduction {
 
 	public static void main(String[] args) {
 
 		Introduction intro = new Introduction();
 		
-		System.out.println("");
+		System.out.println("Professional Summary : ");
+		System.out.println("Profession : Full Stack Developer");
+		System.err.println("Working in : Wissen Technology(2021-)");
+		System.out.println("Graduated from : JAYPEE INSTITUTE OF INFORMATION TECHNOLOGY(2016-2020)");
+		
+		System.out.println("Working as a full stack developer with hands on experience in Java, Angular, Kafka");
+		
+		System.out.println("More about me -->");
 		
 		intro.getLanguages();
 		intro.getFrameworkAndOther();
