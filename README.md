@@ -6,10 +6,10 @@
 </br>
 
 # About ME 💬 :
-### - Software Developer 
+
 
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/iamabhi5hek/iamabhi5hek/blob/main/deathNote.gif">
-
+### - Software Developer 
 ### - Hands on Experience :
 - ✨ JAVA
 - ✨ AngularJs
