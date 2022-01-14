@@ -7,7 +7,7 @@
 # About ME 💬 :
 ### - Software Developer 
 
-<iframe src="https://giphy.com/embed/Hw0wIr1YL75VC" width="480" height="267" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/death-note-kira-Hw0wIr1YL75VC">via GIPHY</a></p>
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/iamabhi5hek/iamabhi5hek/blob/main/deathNote.gif">
 
 ### - Hands on Experience :
 - ✨ JAVA
