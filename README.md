@@ -1,6 +1,11 @@
 ![soldier](https://user-images.githubusercontent.com/31225066/149483699-72c935a0-344a-48df-a815-a5a0ff08d030.gif)
 
+</br>
+</br>
+</br>
 
+
+# About ME 💬 :
 * 🔭 Currently working as Software Engineer
 * 💬 Developer by profession
 
@@ -22,7 +27,4 @@
  
 </div> 
 
-
-
-  
 
