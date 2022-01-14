@@ -8,7 +8,44 @@
 # About ME 💬 :
 
 ```java
-public class introduction
+public class Introduction {
+
+	public static void main(String[] args) {
+
+		Introduction intro = new Introduction();
+		
+		System.out.println("");
+		
+		intro.getLanguages();
+		intro.getFrameworkAndOther();
+		intro.getHobbies();
+		
+	}
+
+	public void getLanguages() {
+		String[] languages = new String[] { "JAVA", "Angular", "Python", "HTML", "JavaScript"};
+		int random = getRandomNumber(0,4);
+		System.out.println(languages[random]);
+	}
+	
+	public void getFrameworkAndOther() {
+		String[] framework = new String[] { "SpringBoot", "Kafka", "MongoDB", "Protocol Buffers", "Strored Proc", "Mockito"
+				,"MySql","DSA"};
+		int random = getRandomNumber(0,7);
+		System.out.println(framework[random]);
+	}
+
+	public void getHobbies() {
+		String[] hobbies = new String[] { "Anime", "Football", "Cricket", "Travelling", "Drive" };
+		int random = getRandomNumber(0,4);
+		System.out.println(hobbies[random]);
+	}
+
+	public int getRandomNumber(int min, int max) {
+		return (int) ((Math.random() * (max - min)) + min);
+	}
+
+}
 ```
 
 </br>
