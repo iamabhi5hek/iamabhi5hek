@@ -33,7 +33,7 @@
 # Languages & Tools 👨‍💻 🛠:
 </br>
 
-<img hight="130" width="350" align="right" alt="GIF" src="https://github.com/iamabhi5hek/iamabhi5hek/blob/main/laptop.gif">
+<img hight="110" width="350" align="right" alt="GIF" src="https://github.com/iamabhi5hek/iamabhi5hek/blob/main/laptop.gif">
 
 
 <img src="https://github.com/iamabhi5hek/iamabhi5hek/blob/main/java.svg" alt="java" width="80" hight="50">
