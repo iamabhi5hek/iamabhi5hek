@@ -1,6 +1,5 @@
 **********
-![soldier](https://user-images.githubusercontent.com/31225066/149483699-72c935a0-344a-48df-a815-a5a0ff08d030.gif)
-
+<img hight="320" width="750" align="right" alt="GIF" src="https://github.com/iamabhi5hek/iamabhi5hek/blob/main/soldier.gif">
 
 </br>
 </br>
