@@ -90,5 +90,7 @@ print("How to get in touch, click Blue or Pink button")
 </br>
 </br>
 
-# Quote to live by💬 :
-
+# Quote:
+```python
+print("Have goals not dreams, one over move to next one")
+```
