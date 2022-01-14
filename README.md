@@ -43,8 +43,8 @@ public class Introduction {
 	}
 	
 	public void getFrameworkAndOther() {
-		String[] framework = new String[] { "SpringBoot", "Kafka", "MongoDB", "Protocol Buffers", "Strored Proc", "Mockito"
-				,"MySql","DSA"};
+		String[] framework = new String[] { "SpringBoot", "Kafka", "MongoDB", "Protocol Buffers", 
+		"Strored Proc", "Mockito", "MySql","DSA"};
 		int random = getRandomNumber(0,7);
 		System.out.println(framework[random]);
 	}
