@@ -7,15 +7,29 @@
 
 # About ME 💬 :
 
-package com.github.readme.aboutme;
+package com.luv2code.springdemo;
 
-import name;
-import profession;
-import technologies;
-import hobbies;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-public class Introduction(){
+public class AnnotationBeanScopDemoApp {
+
+	public static void main(String[] args) {
+		
+		ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
+
+		Coach theCoach = context.getBean("tennisCoach", Coach.class);
+		
+		Coach alphaCoach = context.getBean("tennisCoach", Coach.class);
+
+		boolean result =(theCoach == alphaCoach);
+		
+		System.out.println(result);
+
+		context.close();
+	}
+
 }
+
 
 
 </br>
