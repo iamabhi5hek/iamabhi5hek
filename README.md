@@ -1,5 +1,5 @@
 **********
-<img hight="320" width="750" alt="GIF" src="https://github.com/iamabhi5hek/iamabhi5hek/blob/main/soldier.gif">
+<img hight="220" width="900" alt="GIF" src="https://github.com/iamabhi5hek/iamabhi5hek/blob/main/soldier.gif">
 
 </br>
 </br>
