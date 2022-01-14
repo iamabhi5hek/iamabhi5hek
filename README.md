@@ -4,6 +4,13 @@
 
 <!-- <img alt="freeCodeCamp points" src="https://img.shields.io/freecodecamp/points/iamabhi5hek?label=FreeCodeCamp"> -->
 
+<div align="center">
+
+
+[<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>]()
+[<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>]()
+
+</div>
 
 ##Lets connect : 
 <div align="center">
