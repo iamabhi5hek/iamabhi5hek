@@ -34,7 +34,7 @@
 
 <img hight="160" width="350" align="right" alt="GIF" src="https://github.com/iamabhi5hek/iamabhi5hek/blob/main/laptop.gif">
 
-
+<i class="fas fa-code"></i>
 
 </br>
 </br>
