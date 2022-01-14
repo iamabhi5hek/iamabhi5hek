@@ -70,7 +70,7 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/iamabhi5hek/iamabhi5hek/blob/main/social.gif">
 
 
 * ⚡ Lets connect
