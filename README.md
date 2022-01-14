@@ -65,7 +65,7 @@
 
 
 # ⚡ Contact Me :
-<p>We Vibe, we Vibe
+<p>We Vibe, join the Tribe
 <p>
  </br>
 
