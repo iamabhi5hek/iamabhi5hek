@@ -7,7 +7,7 @@
 # About ME 💬 :
 ### - Software Developer 
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<iframe src="https://giphy.com/embed/Hw0wIr1YL75VC" width="480" height="267" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/death-note-kira-Hw0wIr1YL75VC">via GIPHY</a></p>
 
 ### - Hands on Experience :
 - ✨ JAVA
