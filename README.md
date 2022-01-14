@@ -1,11 +1,4 @@
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/31225066/149372263-1f79b1e3-0a94-46c4-8ebf-0eac1937b644.gif)
-
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/31225066/149377700-b71bfe3a-051b-49db-9c83-5bff82ce5ea2.gif)
-
-
-![funny](https://user-images.githubusercontent.com/31225066/149378294-f573c34d-ac2c-451d-ad40-d8529ae26f3e.gif)
-![howIDo](https://user-images.githubusercontent.com/31225066/149378879-6df40f83-4853-463a-b36c-1dd89ce26035.gif)
-![moto](https://user-images.githubusercontent.com/31225066/149379433-d656381d-182a-4a7e-863d-f8e2777adda0.gif)
+![soldier](https://user-images.githubusercontent.com/31225066/149483699-72c935a0-344a-48df-a815-a5a0ff08d030.gif)
 
 
 
