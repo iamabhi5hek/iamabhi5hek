@@ -26,39 +26,54 @@ public class Introduction {
 		System.err.println("Working in : Wissen Technology(2021-)");
 		System.out.println("Graduated from : JAYPEE INSTITUTE OF INFORMATION TECHNOLOGY(2016-2020)");
 		
-		System.out.println("Working as a full stack developer with hands on experience in Java, Angular, Kafka");
+		System.out.println("Enthusiastic full stack developer with hands on experience of developing and designing RESTful web services using Java8, Springboot, Kafka MongoDB.");
 		
 		System.out.println("More about me -->");
-		
-		intro.getLanguages();
-		intro.getFrameworkAndOther();
+
+		intro.getSkillSet();
 		intro.getHobbies();
 		
 	}
-
-	public void getLanguages() {
-		String[] languages = new String[] { "JAVA", "Angular", "Python", "HTML", "JavaScript"};
-		int random = getRandomNumber(0,4);
-		System.out.println(languages[random]);
-	}
 	
-	public void getFrameworkAndOther() {
-		String[] framework = new String[] { "SpringBoot", "Kafka", "MongoDB", "Protocol Buffers", 
+	public void getSkillSet() {
+		String[] frameworks = new String[] { "SpringBoot", "Kafka", "MongoDB", "Protocol Buffers", 
 		"Strored Proc", "Mockito", "MySql","DSA"};
-		int random = getRandomNumber(0,7);
-		System.out.println(framework[random]);
+		
+		HashMap<String, List<String>> skillSet = new HashMap<>();
+		
+		skillset.add("Programming languages", new ArrayList<String>(){
+			add("Java8");
+			add("AngularJS");			
+		});
+		
+		skillset.add("Tools and Framework", new ArrayList<String>(){
+			add("SpringBoot");
+			add("Kafka");
+			add("Google Protocol Buffers");
+		});
+		
+		skillset.add("Database", new ArrayList<String>(){
+			add("MongoDB");
+			add("MySQL");
+		});
+		
+		skillset.add("Testing", new ArrayList<String>(){
+			add("JUnit Framework(Mockito)");
+		});
+		
+		skillset.add("Trackers", new ArrayList<String>(){
+			add("Jenkins");
+			add("CI/CD");
+			add("GIT");
+			add("Jira");
+		});
 	}
 
 	public void getHobbies() {
-		String[] hobbies = new String[] { "Anime", "Football", "Cricket", "Travelling", "Drive" };
+		String[] hobbies = new String[] { "Anime", "Football", "Cricket", "Travelling", "Driving" };
 		int random = getRandomNumber(0,4);
 		System.out.println(hobbies[random]);
 	}
-
-	public int getRandomNumber(int min, int max) {
-		return (int) ((Math.random() * (max - min)) + min);
-	}
-
 }
 ```
 
