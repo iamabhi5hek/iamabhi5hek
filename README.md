@@ -23,7 +23,8 @@ public class Introduction {
 		
 		System.out.println("Professional Summary : ");
 		System.out.println("Profession : Full Stack Developer");
-		System.err.println("Working in : Wissen Technology(2021-)");
+		System.err.println("Previously : Wissen Technology(2021-2026)");
+		System.err.println("Currently : Morgan Stanley(2026-)");
 		System.out.println("Graduated from : JAYPEE INSTITUTE OF INFORMATION TECHNOLOGY(2016-2020)");
 		
 		System.out.println("Enthusiastic full stack developer with hands on experience of developing and designing RESTful web services using Java8, Springboot, Kafka MongoDB.");
